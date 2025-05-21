@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/svs-supermarket/static/css/main.aad808ba.css",
-    "main.js": "/svs-supermarket/static/js/main.459cdc2b.js",
+    "main.js": "/svs-supermarket/static/js/main.c15bd504.js",
     "static/js/453.22c604a7.chunk.js": "/svs-supermarket/static/js/453.22c604a7.chunk.js",
     "index.html": "/svs-supermarket/index.html",
     "main.aad808ba.css.map": "/svs-supermarket/static/css/main.aad808ba.css.map",
-    "main.459cdc2b.js.map": "/svs-supermarket/static/js/main.459cdc2b.js.map",
+    "main.c15bd504.js.map": "/svs-supermarket/static/js/main.c15bd504.js.map",
     "453.22c604a7.chunk.js.map": "/svs-supermarket/static/js/453.22c604a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aad808ba.css",
-    "static/js/main.459cdc2b.js"
+    "static/js/main.c15bd504.js"
   ]
 }
